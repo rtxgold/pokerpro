@@ -4,7 +4,7 @@ from sklearn.preprocessing import StandardScaler
 import numpy as np, pandas as pd, os
 import pickle
 import json
-from sklearn.externals import joblib
+from sklearn.externals import joblib # import joblib for newer python versions
 
 
 
